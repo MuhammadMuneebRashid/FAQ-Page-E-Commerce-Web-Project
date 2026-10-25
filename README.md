@@ -26,3 +26,6 @@ Run the project: Open index.html in any web browser
 This project is open-source and available under the MIT License.
 Repository ki chhoti description (Short Description for GitHub header):
 "A clean, responsive, and user-friendly FAQ page template built for modern e-commerce platforms."
+
+##Author
+  Muneeb 
