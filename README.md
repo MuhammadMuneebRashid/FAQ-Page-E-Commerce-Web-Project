@@ -19,7 +19,6 @@ faq-page/
 Getting Started
 To view or test this project locally on your machine:
 ##Clone the repository:
-git clone https://github.5com/YOUR-USERNAME/faq-page.git
 Open the project folder in your favorite code editor (like VS Code).
 Run the project: Open index.html in any web browser
 ## License
