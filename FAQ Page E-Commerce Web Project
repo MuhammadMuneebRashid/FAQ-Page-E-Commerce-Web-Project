@@ -1,6 +1,6 @@
 <div class="knox-luxury-store faq-page">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Plus+Jakarta+Sans:wght@300;400;500;600&display=swap');
 
     #masthead, header.site-header, .site-header, .main-navigation, .entry-title, .page-title, header.entry-header, #wpadminbar, .ast-breadcrumbs-wrapper, .ast-header-break-point, header:not(.knox-luxury-footer), .header-container, .elementor-location-header, .site-branding, footer:not(.knox-luxury-footer), .site-footer, .site-info, .ast-small-footer {
       display: none !important;
